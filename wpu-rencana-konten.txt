@@ -4,6 +4,7 @@ Rencana Konten WPU
   * ES 6
   * Framework Javascript
      ^ vue
+     ^ react
 - Fundamental Data Structure
 - PHP Framework
      ^ Laravel
