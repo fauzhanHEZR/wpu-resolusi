@@ -3,6 +3,7 @@ Rencana Konten WPU
 - Javascript
   * ES 6
   * Framework Javascript
+- Fundamental Data Structure
 - PHP Framework
 - Interview
 - Vlogs
